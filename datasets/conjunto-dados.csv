@@ -1,0 +1,1017 @@
+﻿"Organização";"Nome";"Descrição";"Tags";"Quantidade Recursos";"Quantidade Reusos";"Quantidade Downloads";"Quantidade Seguidores"
+"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome";"Coordenador Estadual Bolsa Família - 2018";"É responsável pela coordenação intersetorial e articulação para o acompanhamento das condicionalidades, além de promover capacitações e apoio técnico aos gestores municipais no processo de cadastramento das famílias de baixa renda no Cadastro Único. Apoia técnica e institucionalmente os municípios para a gestão do Programa e promove, em articulação com a União e os municípios, o acompanhamento do cumprimento de condicionalidades.
+Dados de Janeiro de 2018.";"bolsa família";"1";"0";"101";"0"
+"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome";"Gestor Municipal Bolsa Família - 2018";"Profissional que responde primeiramente pela gestão do Bolsa Família na localidade. É a pessoa de referencia para o MDS sobre os temas relacionados à gestão descentralizada do PBF no âmbito municipal ou no DF, e responsável por promover a articulação necessária para o bom andamento das ações intergovernamentais. Dados de Janeiro de 2018.";"bolsa família";"1";"0";"94";"0"
+"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome";"Microdados amostrais do Cadastro Único";"A publicação dos dados, regulamentada pela Portaria MDS nº 192/2017, é uma parceria entre a Secretaria de Avaliação e Gestão da Informação (SAGI) e a Secretaria Nacional de Renda de Cidadania (SENARC), para fomentar pesquisas na comunidade acadêmica nacional e internacional sobre as políticas de desenvolvimento social.
+
+Estes dados estão em formato (.CSV), com 30 variáveis desidentificadas referentes a famílias e 34 referentes a pessoas.
+
+Todas as informações estão disponíveis em:
+https://aplicacoes.mds.gov.br/sagi/portal/index.php?grupo=212
+
+Dicionário de variáveis em Português e Inglês no site da SAGI:
+https://aplicacoes.mds.gov.br/sagi/portal/index.php?grupo=212
+
+Plano amostral da disponibilização de microdados do Cadastro Único:
+https://aplicacoes.mds.gov.br/sagirmps/noticias/arquivos/files/Plano_amostral_microdados_cadastro_unico.pdf
+
+Principais regras de gestão do Bolsa Família e do Cadastro Único: https://aplicacoes.mds.gov.br/sagi/portal/index.php?grupo=216";"Cadastro Único,amostra,bolsa familia,desidentificada";"9";"0";"595";"2"
+"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome";"Censo SUAS";"Como um dos principais instrumentos de Vigilância Socioassistencial, o Censo SUAS fornece dados e informações que possibilitam conhecer melhor a estrutura de funcionamento do SUAS, especialmente sobre demandas apresentadas, articulações com outras políticas setoriais, perfil dos recursos humanos e capacidades de ofertas da rede socioassistencial em âmbito nacional.
+
+Os dados do Censo SUAS contribuem para a transparência e a efetividade da política de Assistência Social ao serem utilizados na elaboração de diagnósticos socioterritoriais e na construção de indicadores para o monitoramento das ações realizadas no SUAS.";"assistencia social,censo,snas,suas";"23";"0";"313";"2"
+"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome";"Conselho Nacional de Assistência Social (CNAS)";"O Conselho Nacional de Assistência Social – CNAS foi instituído pela Lei Orgânica da Assistência Social – LOAS (Lei 8742, de 07 de dezembro de 1993), como órgão superior de deliberação colegiada, vinculado à estrutura do órgão da Administração Pública Federal responsável pela coordenação da Política Nacional de Assistência Social, atualmente o Ministério da Cidadania.";"CNAS,Conselho Nacional de Assistência Social";"7";"0";"47";"2"
+"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome";"Equipamentos Públicos de Segurança Alimentar e Nutricional - 2019";"Equipamentos Públicos de Segurança Alimentar e Nutricional de 2019 que tiveram algum tipo de financiamento do Ministério.
+### Neste conjunto de dados temos as seguintes variáveis:
+
+* __ibge:__ Código IBGE  
+* __uf:__ Sigla da Unidade Federativa  
+* __cidade:__ Nome do município
+* __tipo_equipamento:__ Tipo do equipamento  
+* __nome:__ Nome do equipamento  
+* __endereco :__ Endereço
+* __bairro :__ Bairro
+* __p_latitude :__ Latitude
+* __p_longitude :__ Longitude
+* __situacao :__ Situação do equipamento  
+* __orgao_gestor :__ Nome do Órgão Gestor  
+
+Onde:
+NSA = Não Se Aplica
+SI = Sem Informação
+
+Dados publicados nos formatos csv e json.  
+
+Fonte: Ministério da Cidadania, SEISP - Departamento de Estruturação de Equipamentos Públicos para Promoção da Alimentação Saudável Ano: 2019";"Equipamentos Públicos,mds,segurança alimentar";"2";"1";"249";"2"
+"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome";"Programa Cisternas";"O Programa Nacional de Apoio à Captação de Água de Chuva e outras Tecnologias Sociais (Programa Cisternas) é financiado pelo Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome (MDS). Foi instituído pela Lei Nº 12.873/2013 e regulamentado pelo Decreto N° 8.038/2013). Tem como objetivo a promoção do acesso à água para o consumo humano e para a produção de alimentos por meio da implementação de tecnologias sociais simples e de baixo custo.
+
+O público do programa são famílias rurais de baixa renda atingidas pela seca ou falta regular de água, com prioridade para povos e comunidades tradicionais. Para participarem, as famílias devem necessariamente estar inscritas no Cadastro Único para Programas Sociais do Governo Federal.
+
+### Nesse conjunto de dados temos as seguintes variáveis:
+
+* __codigo_ibge: __ código ibge do município
+* __anomes: __ ano e mês de referência
+* __qtd_cisternas_entregues_consumo: __ quantidade de cisternas familiares de água para consumo entregues
+* __qtd_cisternas_entregues_producao: __ quantidade de cisternas familiares de água para produção entregues
+* __qtd_cisternas_entregues_escolar: : __ quantidade de cisternas escolares entregues";"cisternas,famílias rurais,programas sociais,seca,água";"20";"0";"591";"2"
+"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome";"Auxílio Brasil - Pagamentos";"O Auxílio Brasil integra em um só programa com várias políticas públicas de assistência social, saúde, educação, emprego e renda. O programa social de transferência direta e indireta de renda é destinado às famílias em situação de pobreza e de extrema pobreza em todo o país. Além de garantir uma renda básica a essas famílias, o programa busca simplificar a cesta de benefícios e estimular a emancipação dessas famílias para que alcancem autonomia e superem situações de vulnerabilidade social.
+
+Dados disponibilizados no Portal da Transparência pelo MDS.
+
+__Obs__: Para consultar meses/anos diferentes na relação apresentada, basta efetuar a substituição do ano/mês no final do arquivo.   
+__ex__:  
+www.portaltransparencia.gov.br/download-de-dados/auxilio-brasil/__202112__";"auxílio Brasil,mds";"17";"0";"493";"1"
+"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome";"Auxílio Emergencial (AE)";"O Auxílio Emergencial (AE) é um benefício financeiro criado para garantir uma renda mínima aos brasileiros em situação mais vulnerável durante a pandemia do Covid-19 (novo coronavírus), já que muitas atividades econômicas foram gravemente afetadas pela crise.";"AE,Auxilio Emergencial,PBF,baixa renda,beneficiarios,beneficio,coronavirus,covid-19,extracad,pandemia,renda mínima";"2";"0";"504";"3"
+"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome";"Bolsa Família - Saques";"O **Bolsa Família** é um programa da Secretaria Nacional de Renda de Cidadania (Senarc), que contribui para o combate à pobreza e à desigualdade no Brasil. Ele foi criado em outubro de 2003 e possui três eixos principais: complemento da renda; acesso a direitos; e articulação com outras ações a fim de estimular o desenvolvimento das famílias. A gestão do Bolsa Família é descentralizada, ou seja, tanto a União, quanto os estados, o Distrito Federal e os municípios têm atribuições em sua execução. Em nível federal, o Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome (MDS) é o responsável pelo Programa, e a Caixa Econômica Federal é o agente que executa os pagamentos.
+
+*_Dados disponibilizados no Portal da Transparência pelo Ministério do Planejamento e Orçamento_*.
+
+__Obs__: Para consultar meses/anos diferentes na relação apresentada, basta efetuar a substituição do ano/mês no final do arquivo. 
+__ex__:
+www.portaltransparencia.gov.br/download-de-dados/bolsa-familia-saques/__201801__";"PBF,mds,saques";"60";"0";"388";"2"
+"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome";"BPC - Pagamentos";"O **Benefício de Prestação Continuada- BPC** da Lei Orgânica da Assistência Social- LOAS (BPC) é a garantia de um salário mínimo mensal ao idoso acima de 65 anos ou à pessoa com deficiência de qualquer idade com impedimentos de natureza física, mental, intelectual ou sensorial de longo prazo (aquele que produza efeitos pelo prazo mínimo de 2 (dois) anos), que o impossibilite de participar de forma plena e efetiva na sociedade, em igualdade de condições com as demais pessoas.
+
+Até o fim de 2018, o Departamento de Benefícios Assistenciais (DBA/SNAS) utilizava o Sistema SINTESE (Sistema Integrado de Tratamento Estatístico de Séries Estratégicas) do INSS para geração dos arquivos de município de pagamento. A partir de janeiro de 2019, passou – se a utilizar a Maciça (folha de pagamento da previdência social) para obtenção de dados e valores por municípios de pagamento. Para a finalidade de representar fielmente o valor repassado aos beneficiários pelo Estado brasileiro, sem qualquer desconto que diga respeito a atividades individuais do próprio (como consignações em pagamento) utiliza - se o valor bruto do benefício na folha de pagamento.
+
+Este conjunto de dados se refere as transferências realizadas pelo Benefício de Prestação Continuada - BPC.
+
+Link para o Portal da Transparência: http://www.portaltransparencia.gov.br/download-de-dados/bpc";"assistencial,beneficios,bpc,portal da transparencia";"2";"0";"425";"2"
+"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome";"Bolsa Família - Pagamentos";"O **Bolsa Família** é um programa da Secretaria Nacional de Renda de Cidadania (Senarc), que contribui para o combate à pobreza e à desigualdade no Brasil. Ele foi criado em outubro de 2003 e possui três eixos principais: complemento da renda; acesso a direitos; e articulação com outras ações a fim de estimular o desenvolvimento das famílias. A gestão do Bolsa Família é descentralizada, ou seja, tanto a União, quanto os estados, o Distrito Federal e os municípios têm atribuições em sua execução. Em nível federal, o Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome (MDS) é o responsável pelo Programa, e a Caixa Econômica Federal é o agente que executa os pagamentos.
+
+*_Dados disponibilizados no Portal da Transparência pelo MDS_*.  
+
+__Obs__: Para consultar meses/anos diferentes na relação apresentada, basta efetuar a substituição do ano/mês no final do arquivo.   
+__ex__:  (até 11/2021)
+www.portaltransparencia.gov.br/download-de-dados/bolsa-familia-pagamentos/__201801__  
+__ex__:  (a partir de  03/2023)
+www.portaldatransparencia.gov.br/download-de-dados/novo-bolsa-familia/__202303__";"PBF,bolsa familia,combate à pobreza,pagamentos,renda mínima";"73";"0";"3120";"12"
+"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome";"Famílias inscritas no Cadastro Único por faixa de renda per capita";"O **Cadastro Único** é um instrumento que identifica e caracteriza as famílias de baixa renda, permitindo que o governo conheça melhor a realidade socioeconômica dessa população. 
+
+Este conjunto de dados apresenta a quantidade de famílias por faixa de renda inscritas no Cadastro Único por município e  ano/mês de referência.
+
+Neste conjunto de dados temos as seguintes variáveis:
+
+* __codigo_ibge:__ código ibge do município.
+* __anomes:__ Ano/mês de referência do dado.
+* __qtd_fam_ext_pob*:__ Quantidade de famílias em situação de extrema pobreza, segundo a faixa do Programa Bolsa Família, inscritas no Cadastro Único 
+* __qtd_fam_pob:__ Quantidade de famílias em situação de pobreza, segundo a faixa do Programa Bolsa Família, inscritas no Cadastro Único 
+* __qtd_fam_baixa_renda:__ Quantidade de famílias de baixa renda** inscritas no Cadastro Único 
+* __qtd_fam_acima_meio_sm:__ Quantidade de famílias com renda per capita mensal acima de meio salário-mínimo*** inscritas no Cadastro Único 
+
+*Faixa disponível até fevereiro/2023 
+
+**Extrema Pobreza:**   
+Considera famílias com renda familiar per capita mensal até a metade da linha administrativa de elegibilidade ao Programa Bolsa Família.     
+
+**Histórico**:  
+-Até abril de 2014: renda familiar per capita mensal até 70 reais  
+-De maio de 2014 a junho de 2016: renda familiar per capita mensal até 77 reais  
+-De julho de 2016 a maio de 2018: renda familiar per capita mensal até 85 reais  
+-De junho de 2018 a outubro de 2021: renda familiar per capita mensal até 89 reais  
+-Novembro de 2021: renda familiar per capita mensal até 100 reais  
+-De dezembro de 2021 a fevereiro de 2023: renda familiar per capita mensal até 105 reais  
+-De março de 2023 em diante*: renda familiar per capita mensal até 218 reais  
+
+*A __Lei Nº 14.604__ do Novo Bolsa Família define apenas a faixa de pobreza, logo a partir de março de 2023 em diante não constará nos recursos de dados a faixa de extrema pobreza.
+
+**Pobreza:**  
+Até fevereiro/2023 considera famílias com renda familiar per capita mensal superior a renda familiar per capita da pobreza até a linha administrativa de elegibilidade ao Programa Bolsa Família. A partir de março de 2023, considera-se todas as famílias abaixo da linha administrativa de elegibilidade do Programa Bolsa Família. 
+  
+**Histórico**:   
+-Até abril de 2014: renda familiar per capita mensal entre 70 e 140 reais   
+-De maio de 2014 a junho de 2016: renda familiar per capita mensal entre 77 e 154 reais   
+-De julho de 2016 a maio de 2018: renda familiar per capita mensal entre 85 e 170 reais   
+-De junho de 2018 a outubro de 2021: renda familiar per capita mensal entre 89 e 178 reais   
+-Novembro de 2021: renda familiar per capita mensal entre 100 e 200 reais   
+-De dezembro de 2021 a fevereiro de 2023: renda familiar per capita mensal entre 105 e 210 reais   
+-De março de 2023 em diante: renda familiar per capita mensal até 218 reais   
+
+ **Baixa renda:**  
+Considera famílias com renda per capita mensal acima da linha de elegibilidade do Programa Bolsa Família até meio salário-mínimo, linha que estabelece o público-alvo do Cadastro Único, conforme definição de baixa renda contida no Decreto nº 11.016, de 29 de março de 2022.  
+
+**Histórico**:  
+-Até abril de 2014: renda familiar per capita mensal acima de 140 reais até meio salário-mínimo 
+-De maio de 2014 a junho de 2016: renda familiar per capita mensal acima de 154 reais até meio salário-mínimo 
+-De julho de 2016 a maio de 2018: renda familiar per capita mensal acima de 170 reais até meio salário-mínimo 
+-De junho de 2018 a outubro de 2021: renda familiar per capita mensal acima de 178 reais até meio salário-mínimo 
+-Novembro de 2021: renda familiar per capita mensal acima de  200 reais até meio salário-mínimo 
+-De dezembro de 2021 a fevereiro de 2023: renda familiar per capita mensal acima de 210 reais até meio salário-mínimo 
+-De março de 2023 em diante: renda familiar per capita mensal  acima de 218 reais até meio salário-mínimo 
+ 
+ **Renda per capita mensal acima de meio salário mínimo:**  
+Considera famílias acima do perfil de baixa renda, ou seja, com renda familiar per capita mensal maior que meio salário-mínimo, o que corresponde aos seguintes valores em cada ano:  
+2012: R$ 311,00  
+2013: R$ 339,00  
+2013: R$ 362,00  
+2014: R$ 394,00  
+2015: R$ 339,00  
+2016: R$ 440,00  
+2017: R$ 468,50  
+2018: R$ 477,00  
+2019: R$ 499,00  
+2020: R$ 522,50  
+2021: R$ 550,00  
+2022: R$ 606,00  
+2023 (janeiro a abril): R$ 651,00  
+2023 (a partir de maio): R$ 660,00  
+2024 (a partir de janeiro): R$ 706,00 
+
+__Soluções utilizadas para abertura deste conjunto de dados:__
+
+__VIS DATA:__  é a ferramenta informacional sucessora da Matriz de Informações Sociais concebida em 2005. O VIS DATA se utiliza do conceito de base de dados para armazenar e gerir diversos indicadores e variáveis.
+
+Acesse o [VIS DATA](https://aplicacoes.mds.gov.br/sagi/vis/data3/data-explorer.php)";"cadunico,extrema pobreza,matriz de informações sociais,mi social,ministério da cidadania,misocial,pobreza,renda per capita,visdata";"14";"1";"594";"3"
+"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome";"Pessoas inscritas no Cadastro Único por faixa de renda per capita";"O **Cadastro Único** é um instrumento que identifica e caracteriza as famílias de baixa renda, permitindo que o governo conheça melhor a realidade socioeconômica dessa população. 
+
+Este conjunto de dados apresenta a quantidade de pessoas por faixa de renda inscritas no Cadastro Único por município e  ano/mês de referência.
+
+Neste conjunto de dados temos as seguintes variáveis:
+
+* __codigo_ibge:__ código ibge do município.
+* __anomes:__ Ano/mês de referência do dado.
+* __qtd_pes_ext_pob*:__ Quantidade de pessoas inscritas no Cadastro Único em famílias em situação de extrema pobreza, segundo a faixa do Programa Bolsa Família
+* __qtd_pes_pob:__ Quantidade de pessoas inscritas no Cadastro Único em famílias em situação de pobreza, segundo a faixa do Programa Bolsa Família
+* __qtd_pes_baixa_renda:__ Quantidade de pessoas inscritas no Cadastro Único em famílias de baixa renda
+* __qtd_fam_acima_meio_sm:__ Quantidade de pessoas inscritas no Cadastro Único em famílias com renda per capita mensal acima de meio salário mínimo
+
+*Faixa disponível até fevereiro/2023
+
+**Extrema Pobreza:**   
+Considera famílias com renda familiar per capita mensal até a metade da linha administrativa de elegibilidade ao Programa Bolsa Família.     
+
+**Histórico**:  
+-Até abril de 2014: renda familiar per capita mensal até 70 reais  
+-De maio de 2014 a junho de 2016: renda familiar per capita mensal até 77 reais  
+-De julho de 2016 a maio de 2018: renda familiar per capita mensal até 85 reais  
+-De junho de 2018 a outubro de 2021: renda familiar per capita mensal até 89 reais  
+-Novembro de 2021: renda familiar per capita mensal até 100 reais  
+-De dezembro de 2021 a fevereiro de 2023: renda familiar per capita mensal até 105 reais  
+-De março de 2023 em diante*: renda familiar per capita mensal até 218 reais  
+
+*A __Lei Nº 14.604__ do Novo Bolsa Família define apenas a faixa de pobreza, logo a partir de março de 2023 em diante não constará nos recursos de dados a faixa de extrema pobreza.
+
+**Pobreza:**  
+Até fevereiro/2023 considera famílias com renda familiar per capita mensal superior a renda familiar per capita da pobreza até a linha administrativa de elegibilidade ao Programa Bolsa Família. A partir de março de 2023, considera-se todas as famílias abaixo da linha administrativa de elegibilidade do Programa Bolsa Família. 
+  
+**Histórico**:   
+-Até abril de 2014: renda familiar per capita mensal entre 70 e 140 reais   
+-De maio de 2014 a junho de 2016: renda familiar per capita mensal entre 77 e 154 reais   
+-De julho de 2016 a maio de 2018: renda familiar per capita mensal entre 85 e 170 reais   
+-De junho de 2018 a outubro de 2021: renda familiar per capita mensal entre 89 e 178 reais   
+-Novembro de 2021: renda familiar per capita mensal entre 100 e 200 reais   
+-De dezembro de 2021 a fevereiro de 2023: renda familiar per capita mensal entre 105 e 210 reais   
+-De março de 2023 em diante: renda familiar per capita mensal até 218 reais   
+
+ **Baixa renda:**  
+Considera famílias com renda per capita mensal acima da linha de elegibilidade do Programa Bolsa Família até meio salário-mínimo, linha que estabelece o público-alvo do Cadastro Único, conforme definição de baixa renda contida no Decreto nº 11.016, de 29 de março de 2022.  
+
+**Histórico**:  
+-Até abril de 2014: renda familiar per capita mensal acima de 140 reais até meio salário-mínimo 
+-De maio de 2014 a junho de 2016: renda familiar per capita mensal acima de 154 reais até meio salário-mínimo 
+-De julho de 2016 a maio de 2018: renda familiar per capita mensal acima de 170 reais até meio salário-mínimo 
+-De junho de 2018 a outubro de 2021: renda familiar per capita mensal acima de 178 reais até meio salário-mínimo 
+-Novembro de 2021: renda familiar per capita mensal acima de  200 reais até meio salário-mínimo 
+-De dezembro de 2021 a fevereiro de 2023: renda familiar per capita mensal acima de 210 reais até meio salário-mínimo 
+-De março de 2023 em diante: renda familiar per capita mensal  acima de 218 reais até meio salário-mínimo 
+ 
+ **Renda per capita mensal acima de meio salário mínimo:**  
+Considera famílias acima do perfil de baixa renda, ou seja, com renda familiar per capita mensal maior que meio salário-mínimo, o que corresponde aos seguintes valores em cada ano:  
+2012: R$ 311,00  
+2013: R$ 339,00  
+2013: R$ 362,00  
+2014: R$ 394,00  
+2015: R$ 339,00  
+2016: R$ 440,00  
+2017: R$ 468,50  
+2018: R$ 477,00  
+2019: R$ 499,00  
+2020: R$ 522,50  
+2021: R$ 550,00  
+2022: R$ 606,00  
+2023 (janeiro a abril): R$ 651,00  
+2023 (a partir de maio): R$ 660,00  
+2024 (a partir de janeiro): R$ 706,00 
+
+__Soluções utilizadas para abertura deste conjunto de dados:__
+
+__VIS DATA:__  é a ferramenta informacional sucessora da Matriz de Informações Sociais concebida em 2005. O VIS DATA se utiliza do conceito de base de dados para armazenar e gerir diversos indicadores e variáveis.
+
+Acesse o [VIS DATA](https://aplicacoes.mds.gov.br/sagi/vis/data3/data-explorer.php)";"cadunico,extrema pobreza,matriz de informações sociais,mi social,ministério da cidadania,misocial,pobreza,renda per capita,visdata";"14";"2";"621";"2"
+"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome";"Auxílio Brasil";"O **Auxílio Brasil** integra em um só programa várias políticas públicas de assistência social, saúde, educação, emprego e renda. O programa social de transferência direta e indireta de renda é destinado às famílias em situação de pobreza e de extrema pobreza em todo o país. Além de garantir uma renda básica a essas famílias, o programa busca simplificar a cesta de benefícios e estimular a emancipação dessas famílias para que alcancem autonomia e superem situações de vulnerabilidade social. 
+
+Neste conjunto de dados temos as seguintes variáveis:
+
+* __codigo_ibge__: Código IBGE do município da família beneficiária.
+* __anomes_s__: Ano e mês de referência da disponibilização da primeira parcela dos recursos para a família.
+* __pab_qtd_fam_benef_i__: Famílias Beneficiárias do Auxílio Brasil
+* __pab_valor_pago_d__: Valor Total repassado do Auxílio Brasil
+* __pab_valor_medio_d__: Valor médio do Auxílio Brasil
+* __pab_extraordinario_qtd_fam_i__: Famílias beneficiárias ao Benefício Extraordinário
+* __pab_extraordinario_valor_pago_d__: Valores repassados do Benefício Extraordinário
+* __pab_extraordinario_valor_medio_d__: Valor médio do Benefício Extraordinário
+* __pab_qtd_beneficios_primeira_infancia_i__: Total de Benefícios Primeira Infância (BPI)
+* __pab_qtd_beneficios_comp_familiar_crianca_i__: Total de Benefícios Composição Familiar - Criança (BCC)
+* __pab_qtd_beneficios_comp_familiar_adolescente_i__: Total de Benefícios Composição Familiar - Adolescente (BCA)
+* __pab_qtd_beneficios_comp_familiar_jovem_i__: Total de Benefícios Composição Familiar - Jovem (BCJ)
+* __pab_qtd_beneficios_comp_familiar_gestante_i__: Total de Benefícios Composição Familiar - Gestante (BCG)
+* __pab_qtd_beneficios_superacao_extr_pobreza_i__: Total de Benefícios para Superação da Extrema Pobreza (BSP)
+* __pab_qtd_beneficios_compensatorio_transitorio_i__: Total de Benefícios Compensatórios Transitórios (BCOMP)
+
+Quantidade de Famílias e Valores Repassados do Auxílio Brasil e do Benefício Extraordinário: De 11/2021 até 02/2023.
+Quantidade de Benefícios do Programa Auxílio Brasil (Por Tipo): De 11/2021 até 05/2023.
+
+__Soluções utilizadas para abertura deste conjunto de dados:__
+
+__VIS DATA:__  é a ferramenta informacional sucessora da Matriz de Informações Sociais concebida em 2005. O VIS DATA se utiliza do conceito de base de dados para armazenar e gerir diversos indicadores e variáveis.
+
+Acesse o [VIS DATA](https://aplicacoes.mds.gov.br/sagi/vis/data3/data-explorer.php)";"MI Social,auxilio brasil,benefício,combate à pobreza,mi social,programa auxílio brasil,programa social,renda básica";"4";"1";"1092";"3"
+"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome";"BPC por município pagador";"O **Benefício de Prestação Continuada- BPC** da Lei Orgânica da Assistência Social- LOAS (BPC) é a garantia de um salário mínimo mensal ao idoso acima de 65 anos ou à pessoa com deficiência de qualquer idade com impedimentos de natureza física, mental, intelectual ou sensorial de longo prazo (aquele que produza efeitos pelo prazo mínimo de 2 (dois) anos), que o impossibilite de participar de forma plena e efetiva na sociedade, em igualdade de condições com as demais pessoas.
+
+Até o fim de 2018, o Departamento de Benefícios Assistenciais (DBA/SNAS) utilizava o Sistema SINTESE (Sistema Integrado de Tratamento Estatístico de Séries Estratégicas) do INSS para geração dos arquivos de município de pagamento. A partir de janeiro de 2019, passou – se a utilizar a Maciça (folha de pagamento da previdência social) para obtenção de dados e valores por municípios de pagamento. 
+Para a finalidade de representar fielmente o valor repassado aos beneficiários pelo Estado brasileiro, sem qualquer desconto que diga respeito a atividades individuais do próprio (como consignações em pagamento) utiliza - se o valor bruto do benefício na folha de pagamento.
+
+Este conjunto de dados se refere a quantidade de beneficiários (Idosos/PCD) e do valor repassado por município pagador.
+
+Neste conjunto de dados temos as seguintes variáveis:
+
+* __ibge:__ código ibge do município.
+* __anomes:__ Ano/mês de referência do dado.
+* __bpc_ben:__ quantidade bpc beneficiário total.
+* __bpc_pcd_ben:__ quantidade bpc portador deficiência beneficiário.
+* __bpc_idoso_ben:__ quantidade bpc idoso beneficiário.
+* __bpc_pcd_val:__ valor bpc portador deficiência.
+* __bpc_idoso_val:__ valor bpc idoso.
+* __bpc_val:__ valor bpc total.
+
+* _O valor bpc beneficiário total se refere a soma das variáveis:
+   valor bpc portador deficiência beneficiário e valor bpc idoso beneficiário_.
+
+* _O valor bpc total se refere a soma das variáveis:
+  valor bpc portador deficiência e valor bpc idoso_.
+
+__Soluções utilizadas para abertura deste conjunto de dados:__
+
+__VIS DATA:__  é a ferramenta informacional sucessora da Matriz de Informações Sociais concebida em 2005. O VIS DATA se utiliza do conceito de base de dados para armazenar e gerir diversos indicadores e variáveis.
+
+Acesse o [VIS DATA](https://aplicacoes.mds.gov.br/sagi/vis/data3/data-explorer.php)";"assistencial,beneficio,bpc,matriz informação social,mi social,misocial";"40";"2";"1479";"7"
+"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome";"Cadastro Único - Famílias/Pessoas por faixas de renda per capita";"O Cadastro Único é um instrumento que identifica e caracteriza as famílias de baixa renda, permitindo que o governo conheça melhor a realidade socioeconômica dessa população. 
+
+Este conjunto de dados apresenta a quantidade de famílias em situação de pobreza e extrema pobreza, o total de famílias e pessoas cadastradas no Cadastro Único, assim como o município e o ano/mês de referência.
+
+Neste conjunto de dados temos as seguintes variáveis:
+
+* __ibge:__ código ibge do município
+* __anomes:__ Ano/mês de referência do dado
+* __cadunico_tot_fam:__ total de famílias cadastradas
+* __cadunico_tot_pes:__ total de pessoas cadastradas
+* __cadunico_tot_fam_rpc_ate_meio_sm:__ total de famílias com renda per capita até meio salário mínimo
+* __cadunico_tot_pes_rpc_ate_meio_sm:__: total de pessoas com renda per capita até meio salário mínimo
+* __cadunico_tot_fam_pob:__ total de famílias em situação de pobreza
+* __cadunico_tot_pes_pob:__ total de pessoas em situação de pobreza
+* __cadunico_tot_fam_ext_pob:__ total de famílias em situação de extrema pobreza
+* __cadunico_tot_pes_ext_pob:__ total de pessoas em situação de extrema pobreza
+* __cadunico_tot_fam_pob_e_ext_pob:__ total de famílias em situação de pobreza e de extrema pobreza
+* __cadunico_tot_pes_pob_e_ext_pob:__  total de pessoas em situação de pobreza e de extrema pobreza
+
+
+__Situação de extrema pobreza__
+
+* __Até abril de 2014:__ renda per capita menor igual a 70 reais
+* __De maio de 2014 a junho de 2016:__ renda per capita menor igual a 77 reais
+* __De julho de 2016 a maio de 2018:__ renda per capita menor igual a 85 reais
+* __De junho de 2018 em diante:__ renda per capita menor igual a 89 reais
+
+
+__Situação de pobreza__
+
+* __Até abril de 2014:__ renda per capita de 70,01 reais a 140 reais
+* __De maio de 2014 a junho de 2016:__ renda per capita de 77,01 reais a 154 reais
+* __De julho de 2016 a maio de 2018:__ renda per capita de 85,01 reais a 170 reais
+* __De junho de 2018 em diante:__ renda per capita de 89,01 reais a 178 reais
+
+*_As definições de extrema pobreza e pobreza são atualizadas ao longo dos anos, conforme o Art. 18 do Decreto nº 5.209 de 17/09/2004._
+
+__Soluções utilizadas para abertura deste conjunto de dados:__
+
+__VIS DATA:__  é a ferramenta informacional sucessora da Matriz de Informações Sociais concebida em 2005. O VIS DATA se utiliza do conceito de base de dados para armazenar e gerir diversos indicadores e variáveis.
+
+Acesse o [VIS DATA](https://aplicacoes.mds.gov.br/sagi/vis/data3/data-explorer.php)";"cadunico,extrema pobreza,matriz de informações sociais,mi social,ministério da cidadania,misocial,pobreza,renda per capita,visdata";"59";"3";"3647";"11"
+"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome";"CADSUAS - Sistema de Cadastro do Sistema Único de Assistência Social (SUAS)";"O **CadSUAS** é o sistema de cadastro do Sistema Único de Assistência Social (**SUAS**), que comporta todas as informações relativas à prefeituras, órgão gestor, fundo e conselho municipal e entidades que prestam serviços socioassistenciais.
+
+Neste conjunto de dados temos as seguintes variáveis:
+
+* __codigo_ibge:__ código ibge do município
+* __anomes:__ ano e mês de referência
+* __cadsuas_qtd_centro_convivencia_i:__ Quantidade de Centro de Convivência
+* __cadsuas_qtd_centro_pop_i:__ Quantidade de Centro POP
+* __cadsuas_qtd_centro_dia_similares_i:__ Quantidade de Centro Dia e Similares
+* __cadsuas_qtd_conselho_df_i:__ Quantidade de Conselho DF
+* __cadsuas_qtd_conselho_uf_i:__ Quantidade de Conselho Estadual
+* __cadsuas_qtd_conselho_mun_i:__ Quantidade de Conselho Municipal
+* __cadsuas_qtd_cras_i:__ Quantidade de CRAS
+* __cadsuas_qtd_creas_i:__ Quantidade de CREAS
+* __cadsuas_qtd_creas_regional_i:__ Quantidade de CREAS Regional
+* __cadsuas_qtd_fundo_df_i:__ Quantidade de Fundo DF
+* __cadsuas_qtd_fundo_uf_i:__ Quantidade de Fundo Estadual
+* __cadsuas_qtd_fundo_mun_i:__ Quantidade de Fundo Municipal
+* __cadsuas_qtd_conselho_nacional_i:__ Quantidade de Conselho Nacional
+* __cadsuas_qtd_outras_redes_socio_assist_i:__ Quantidade de outras redes socio assistencial
+* __cadsuas_qtd_secretaria_nac_i:__ Quantidade de Secretaria Nacional
+* __cadsuas_qtd_secretaria_df_i:__ Quantidade de Secretaria DF
+* __cadsuas_qtd_secretaria_uf_i:__ Quantidade de Secretaria Estadual
+* __cadsuas_qtd_mun_i:__ Quantidade de Secretaria Municipal
+* __cadsuas_qtd_unidade_acolhimento_i:__ Quantidade de Unidade de Acolhimento
+* __cadsuas_qtd_fundo_nac_i:__ Quantidade de Fundo Nacional
+* __cadsuas_qtd_profissionais_distintos_i:__ Quantidade de Profissionais distintos
+* __cadsuas_qtd_profissionais_centro_convivencia_i:__ Quantidade de Profissionais em Centros de Convivência
+* __cadsuas_qtd_profissionais_centro_pop_i:__ Quantidade de Profissionais em Centro POP
+* __cadsuas_qtd_profissionais_centro_dia_similares_i:__ Quantidade de Profissionais em Centro Dia e Similares
+* __cadsuas_qtd_profissionais_conselho_df_i:__ Quantidade de Profissionais em Conselho DF
+* __cadsuas_qtd_profissionais_conselho_uf_i:__ Quantidade de Profissionais em Conselho Estadual
+* __cadsuas_qtd_profissionais_conselho_mun_i:__ Quantidade de Profissionais em Conselho Municipal
+* __cadsuas_qtd_profissionais_cras_i:__ Quantidade de Profissionais em CRAS
+* __cadsuas_qtd_profissionais_creas_i:__ Quantidade de Profissionais em CREAS
+* __cadsuas_qtd_profissionais_creas_regional_i:__ Quantidade de Profissionais em CREAS Regional
+* __cadsuas_qtd_profissionais_fundo_df_i:__ Quantidade de Profissionais em Fundo DF
+* __cadsuas_qtd_profissionais_fundo_uf_i:__ Quantidade de Profissionais em Fundo Estadual
+* __cadsuas_qtd_profissionais_fundo_mun_i:__ Quantidade de Profissionais em Fundo Municipal
+* __cadsuas_qtd_profissionais_conselho_nacional_i:__ Quantidade de Profissionais em Conselho Nacional
+* __cadsuas_qtd_profissionais_outras_redes_socio_assist_i:__ Quantidade de Profissionais em Outras redes socio assistencial
+* __cadsuas_qtd_profissionais_secretaria_nacional_i:__ Quantidade de Profissionais em Secretaria Nacional
+* __cadsuas_qtd_profissionais_secretaria_df_i:__ Quantidade de Profissionais em Secretaria DF
+* __cadsuas_qtd_profissionais_secretaria_uf_i:__ Quantidade de Profissionais em Secretaria Estadual
+* __cadsuas_qtd_profissionais_secretaria_mun_i:__ Quantidade de Profissionais em Secretaria Municipal
+* __cadsuas_qtd_profissionais_unidade_acolhimento_i:__ Quantidade de Profissionais em Unidade de Acolhimento
+* __cadsuas_qtd_profissionais_fundo_nacional_i:__ Quantidade de Profissionais em Fundo Nacional
+
+__Soluções utilizadas para abertura deste conjunto de dados:__
+
+__VIS DATA:__  é a ferramenta informacional sucessora da Matriz de Informações Sociais concebida em 2005. O VIS DATA se utiliza do conceito de base de dados para armazenar e gerir diversos indicadores e variáveis.
+
+Acesse o [VIS DATA](https://aplicacoes.mds.gov.br/sagi/vis/data3/data-explorer.php)";"SUAS,cadastro,cadsuas,mi social,misocial,socioassistencial";"40";"3";"523";"4"
+"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome";"Certificação de Entidades Beneficentes de Assistência Social - CEBAS";"A Certificação de Entidades Beneficentes de Assistência Social  (CEBAS) é um dos documentos exigidos pela Receita Federal, para que a entidade sem fins lucrativos usufrua de isenções e contribuições sociais, tais como a parte patronal da contribuição previdenciária sobre a folha de pagamento; a Contribuição Social sobre o Lucro Líquido – CSLL; entre outras.
+
+A Certificação CEBAS também possibilita a entidade a fazer convênios e parcerias com o poder público. Para obter a Certificação, a entidade deve solicitar no [portal de serviços gov.br](https://www.gov.br/pt-br/servicos/certificar-se-como-entidade-beneficente-de-assistencia-social).
+
+**Neste conjunto de dados temos as seguintes variáveis:**
+
+*  **codigo_ibge:** código ibge do município.
+* **anome_s:** ano e mês de referência.
+* **cebas_cnpj_entidade_s:** Número de identificação do Cadastro Nacional de Pessoa Jurídica (CNPJ).
+* **cebas_razao_social_entidade_s:** Nome da Entidade constante no CNPJ.
+* **cebas_status_certificacao_s:** Status da Certificação, podendo ser válida (possui requerimento de renovação protocolado tempestivamente, aguardando decisão de mérito) ou vigente (CEBAS deferido com data da validade da Certificação constante na portaria de deferimento publicada no Diário Oficial da União).
+*  **cebas_cod_status_certificacao_i**: Código do status da certificação, 1 - Válida, 2 - Vigente.
+*  **cebas_dt_inicio_certificacao_s**: Data de início da certificação.
+*  **cebas_dt_fim_certificacao_s**: Data fim da certificação.  
+*  **cebas_dt_extracao_dados_s**: Data da extração dos dados.  
+* **cebas_qtd_certif_status_valida_i**: Quantidade de Entidades com status de Certificação válida.
+* **cebas_qtd_certif_status_vigente_i**: Quantidade de Entidades com status de Certificação vigente.
+
+__Soluções utilizadas para abertura deste conjunto de dados:__
+
+__VIS DATA:__  é a ferramenta informacional sucessora da Matriz de Informações Sociais concebida em 2005. O VIS DATA se utiliza do conceito de base de dados para armazenar e gerir diversos indicadores e variáveis.
+
+Acesse o [VIS DATA](https://aplicacoes.mds.gov.br/sagi/vis/data3/data-explorer.php)";"CEBAS,mds,mi social,misocial,visdata";"6";"1";"759";"0"
+"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome";"Índice de Gestão Descentralizada dos Municípios - IGD-M";"O __Índice de Gestão Descentralizada do Município (IGD-M)__ mede a qualidade das ações realizadas pelo município nas ações de cadastramento, de atualização cadastral e de acompanhamento das condicionalidades de educação e saúde. Também verifica se o município aderiu ao Sistema Único de Assistência Social (SUAS) e se as gestões e os Conselhos municipais registraram, no Sistema SuasWeb, as informações relativas à prestação de contas.
+
+No cálculo do índice, são consideradas ainda a quantidade de registros de Acompanhamento Familiar realizados pelo município no Sistema de Condicionalidades (Sicon) e a data da última atualização dos dados referentes à gestão municipal realizada no Sistema de Gestão do Programa Bolsa Família (SIGPBF).
+
+Com base no valor do IGD-M alcançado, o Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome (MDS) calcula, a cada mês, quanto cada município vai receber. Os recursos financeiros são repassados apenas  para os municípios que tenham alcançado índices mínimos nas taxas e na média das taxas do cálculo do IGD-M, além de terem aderido à gestão do Suas e registrado a comprovação dos gastos e a aprovação da prestação de contas do ano anterior no Sistema SuasWeb.
+
+### Nesse conjunto de dados temos as seguintes variáveis:
+
+* __PBF:__ Programa Bolsa Família
+* __PAB:__ Programa Auxílio Brasil
+
+__IGD-M PBF - Taxas__  
+
+* __codigo_ibge:__ Código IBGE do município
+* __anomes_s:__ Ano e mês de referência
+* __tx_acomp_freq_escol_f:__ TAFE - Taxa de Acompanhamento de Frequência Escolar - (relação entre a quantidade de crianças e adolescentes com informações de frequência escolar e o total de crianças e adolescentes de 6 a 15 anos de idade que pertencem a famílias beneficiárias do Bolsa Família no município)
+* __tx_acomp_agenda_saude_f:__ TAAS - Taxa de Acompanhamento de Agenda de Saúde
+* __tx_atual_cad_f:__ TAC - Taxa de Atualização Cadastral - (relação entre a quantidade de famílias que tiveram seus dados cadastrais atualizados nos últimos dois anos e a quantidade de famílias incluídas no Cadastro Único (com renda mensal per capita de até meio salário mínimo)
+* __igdm_f:__ Índice de Gestão Descentralizada por Município
+* __igd_pbf_fator_redutor_conforme_saldo_f:__ Fator redutor conforme saldo (a partir de 2023).
+
+__IGD-M PBF - Valores Calculados__
+
+* __codigo_ibge:__ código ibge do município
+* __anomes_s:__ ano e mês de referência
+* __vl_cal_sem_icent_f:__ valor calculado sem incentivos
+* __prop_fam_em_desc_cond_acom_f:__ Proporção de famílias em descumprimento de condicionalidades acompanhadas
+* __gst_mun_sigpbf_at_menos_1_f:__ Dados da gestão municipal no SIGPBF atualizados há menos de 1 ano
+* __vl_tot_incent_f:__ Valor Total de Incentivos
+* __vl_cal_com_incent_f:__  Valor Calculado com Incentivos
+* __teto_rep_igdm_f:__ Teto de repasse do IGD-M
+* __vl_rep_mes_f:__ Valor repassado no mês
+* __mt_imp_rep_s:__ Motivo(s) que impede(m) o repasse
+
+__IGD-M PBF - Público utilizado para composição do cálculo__
+
+* __codigo_ibge:__ código ibge do município
+* __anomes_s:__ Ano e mês de referência
+* __igd_pbf_qtd_pessoas_com_freq_escolar_informada_i:__ Crianças e adolescentes das famílias do Programa Bolsa Família com frequência escolar informada
+* __igd_pbf_qtd_total_criancas_adolescentes_pbf_i:__ Total de crianças e adolescentes das famílias do Programa Bolsa Família no município
+* __igd_pbf_qtd_pessoas_cond_saude_informada_i:__ Público do Programa Bolsa Família com condicionalidades de saúde informada
+* __igd_pbf_qtd_total_publico_saude_i:__ Total de público com perfil saúde no município
+* __igd_pbf_qtd_atualizacoes_cad_ate_meio_sm_i:__ Atualizações de cadastros  - Perfil CadÚnico até 1/2 salário mínimo
+* __igd_pbf_qtd_familias_cad_ate_meio_sm_i:__ Cadastros  de Famílias com Perfil CadÚnico até 1/2 salário mínimo
+
+__IGD-M PAB - Taxas__  
+
+* __codigo_ibge:__ código ibge do município
+* __anomes_s:__ ano e mês de referência
+* __igd_pab_tafe_f:__ TAFE - Taxa de Acompanhamento de Frequência Escolar - (relação entre a quantidade de crianças e adolescentes com informações de frequência escolar e o total de crianças e adolescentes de 6 a 15 anos de idade que pertencem a famílias beneficiárias do Auxílio Brasil no município)
+* __igd_pab_taas_f:__ TAAS - Taxa de Acompanhamento de Agenda de Saúde
+* __igd_pab_tac_f:__ TAC - Taxa de Atualização Cadastral - (relação entre a quantidade de famílias que tiveram seus dados cadastrais atualizados nos últimos dois anos e a quantidade de famílias incluídas no Cadastro Único (com renda mensal per capita de até meio salário mínimo)
+* __igd_pab_igdm_f:__ Índice de Gestão Descentralizada por Município - IGD-M
+* __igd_pab_fator_redutor_f:__ Fator redutor conforme saldo (a partir de 2023)
+
+__IGD-M PAB - Valores Calculados__
+
+* __codigo_ibge:__ código ibge do município
+* __anomes_s:__ ano e mês de referência
+* __igd_pab_vl_teto_repasse_igdm_f:__ Teto de repasse do IGD-M
+* __igd_pab_vl_calculado_sem_incentivos_f:__ Valor Calculado sem Incentivos
+* __igd_pab_vl_incentivo_1_f:__ Incentivo 1 - Proporção de famílias em descumprimento de condicionalidades acompanhadas
+* __igd_pab_vl_incentivo_2_f:__ Incentivo 2 - Dados da gestão municipal no SIGPAB atualizados há menos de 1 ano
+* __igd_pab_vl_total_incentivos_f:__ Valor Total de Incentivos
+* __igd_pab_vl_calculado_com_incentivos_f:__  Valor Calculado com Incentivos
+* __igd_pab_vl_repassado_igdm_f:__ Valor repassado no mês
+* __igd_pab_motiv_imped_repasse_s:__ Motivos que impedem o repasse
+
+__IGD-M PAB - Público utilizado para composição do cálculo__
+
+* __codigo_ibge:__ Código IBGE do município
+* __anomes_s:__ Ano e mês de referência
+* __igd_pab_qtd_pessoas_com_freq_escolar_informada_i:__ Crianças e adolescentes das famílias do Programa Auxílio Brasil  com frequência escolar informada
+* __igd_pab_qtd_total_criancas_adolescentes_pab_i:__ Total de crianças e adolescentes das famílias do Programa Auxílio Brasil no município
+* __idg_pab_qtd_pessoas_cond_saude_informada_i:__ Público do Programa Auxílio Brasil com condicionalidades de saúde informada
+* __igd_pbf_qtd_total_publico_saude_i:__ Total de público com perfil saúde no município
+* __igd_pbf_qtd_atualizacoes_cad_ate_meio_sm_i:__ Atualizações de cadastros  - Perfil CadÚnico até 1/2 salário mínimo
+* __igd_pbf_qtd_familias_cad_ate_meio_sm_i:__ Cadastros  de Famílias com Perfil CadÚnico até 1/2 salário mínimo
+
+ __Soluções utilizadas para abertura deste conjunto de dados:__
+
+__VIS DATA:__  é a ferramenta informacional sucessora da Matriz de Informações Sociais concebida em 2005. O VIS DATA se utiliza do conceito de base de dados para armazenar e gerir diversos indicadores e variáveis.
+
+Acesse o [VIS DATA](https://aplicacoes.mds.gov.br/sagi/vis/data3/data-explorer.php)";"Igd,Indice gestao descentralizada,MI Social,MISocial,beneficio,matriz de informação social,visdata";"60";"2";"697";"2"
+"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome";"Plano Progredir";"O Progredir é um plano de ações do Governo Federal para gerar emprego, renda e promover a construção da autonomia das pessoas inscritas no CADASTRO ÚNICO para programas Sociais do Governo Federal.
+
+O Progredir possui um aplicativo de internet para as pessoas inscritas no CADUNICO, que conta com cursos de qualificação profissional, vagas de emprego, uma área para elaboração de currículo, e a possibilidade de acessar microcrédito para empreender. Todos ofertados por parceiros (empresas ou entes públicos) em sua região de forma gratuita.
+
+**Neste conjunto de dados temos as seguintes variáveis:**
+
+* **codigo_ibge:** Código IBGE do município do cidadão cadastrado no Portal Progredir.
+* **anome_s:** Ano e mês em que o cidadão realizou seu cadastro no Portal Progredir.
+* **qtd_pessoas_inscritas_progredir_i:** Cadastros realizados no Portal Progredir - Quantidade de novos cadastros realizados por mês no Portal Progredir.
+* **progredir_qtd_usuarios_ativos_cadastrados_i:** Usuários ativos no Portal Progredir - Quantidade de cidadãos que estão com seus cadastros ativos no Portal Progredir no mês de referência. (Dados disponíveis a partir de 11/2022).
+
+__Soluções utilizadas para abertura deste conjunto de dados:__
+
+__VIS DATA:__  é a ferramenta informacional sucessora da Matriz de Informações Sociais concebida em 2005. O VIS DATA se utiliza do conceito de base de dados para armazenar e gerir diversos indicadores e variáveis.
+
+Acesse o [VIS DATA](https://aplicacoes.mds.gov.br/sagi/vis/data3/data-explorer.php)";"cadunico,emprego,mi social,misocial,progredir,qualificação profissional,visdata";"15";"1";"224";"0"
+"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome";"Postos de Cadastramento do Cadastro Único";"Postos do Cadastro Único são locais, casas, prédios ou qualquer unidade que são utilizados com a finalidade de realizar a inclusão ou atualização cadastral das famílias no Cadastro Único e os procedimentos afins de gestão e operacionalização do Cadastro Único e do Programa Bolsa Família. Incluem-se neste rol:
+
+- Postos que executam exclusivamente tais atividades;
+
+-  Postos alocados em unidades de outras políticas públicas ou outras unidades
+administrativas, como secretaria de habitação e de desenvolvimento rural,
+prefeitura, entre outras;
+
+- Espaços alocados dentro do órgão gestor da Assistência Social;
+
+- Postos inseridos em serviços integrados ao cidadão (Na Hora, Vapt Vupt,
+Poupa Tempo etc.)
+
+- Postos inseridos em conselhos de direitos (Conselho Municipal de Assistência
+Social, Conselho Tutelar ou outro conselho municipal)
+
+Referência: Censo SUAS 2020
+
+__Soluções utilizadas para abertura deste conjunto de dados:__
+
+__VIS DATA:__  é a ferramenta informacional sucessora da Matriz de Informações Sociais concebida em 2005. O VIS DATA se utiliza do conceito de base de dados para armazenar e gerir diversos indicadores e variáveis.
+
+Acesse o [VIS DATA](https://aplicacoes.mds.gov.br/sagi/vis/data3/data-explorer.php)";"cadastramento,cadastro unico,mi social,misocial,postos,rede,socioassistencial,visdata";"1";"1";"106";"5"
+"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome";"Programa Criança Feliz";"O **Programa Criança Feliz** é uma ação do Governo Federal, instituído por meio do decreto nº 8.869/2016,  de caráter intersetorial, com a finalidade de promover o desenvolvimento integral das crianças na primeira infância, considerando sua família e seu contexto de vida. O Programa se desenvolve por meio de visitas domiciliares que buscam envolver ações de saúde, educação, assistência social, cultura e direitos humanos.
+
+### Neste conjunto de dados temos as seguintes variáveis:
+
+* __codigo_ibge: __ código ibge do município
+* __anomes: __ ano e mês de referência
+* __qtd_criancas_visitadas_pcf: __ quantidade de crianças visitadas
+* __visitas_realizadas_criancas_pcf: __ quantidade de crianças visitadas
+* __qtd_gestantes_visitadas_pcf: __ quantidade de gestantes visitadas
+* __visitas_realizadas_gestantes_pcf: __ quantidade de gestantes visitadas
+* __total_pessoas_visitadas_pcf: __ total de pessoas visitadas
+* __visitas_realizadas_gestantes_pcf: __ total de pessoas visitadas
+* __municipios_elegiveis_pcf: __ municípios elegíveis
+* __municipios_adesao_pcf: __ adesão de municípios
+
+__Soluções utilizadas para abertura deste conjunto de dados:__
+
+__VIS DATA:__  é a ferramenta informacional sucessora da Matriz de Informações Sociais concebida em 2005. O VIS DATA se utiliza do conceito de base de dados para armazenar e gerir diversos indicadores e variáveis.
+
+Acesse o [VIS DATA](https://aplicacoes.mds.gov.br/sagi/vis/data3/data-explorer.php)
+
+Painel de Análise dos Dados: http://aplicacoes.mds.gov.br/sagi-paineis/analise_dados_abertos/";"Direitos Humanos,assistência social,criança feliz,família,infância,mi social,misocial,primeira infância,visdata";"10";"1";"356";"0"
+"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome";"Programa de Aquisição de Alimentos (PAA)";"O Programa de Aquisição de Alimentos (PAA), criado pelo art. 19 da Lei nº 10.696, de 02 de julho de 2003, possui duas finalidades básicas: promover o acesso à alimentação e incentivar a agricultura familiar. 
+
+Para o alcance desses dois objetivos, o programa compra alimentos produzidos pela agricultura familiar, com dispensa de licitação, e os destina às pessoas em situação de insegurança alimentar e nutricional e àquelas atendidas pela rede socioassistencial, pelos equipamentos públicos de segurança alimentar e nutricional e pela rede pública e filantrópica de ensino.
+
+O PAA também contribui para a constituição de estoques públicos de alimentos produzidos por agricultores familiares e para a formação de estoques pelas organizações da agricultura familiar. Além disso, o programa promove o abastecimento alimentar por meio de compras governamentais de alimentos; fortalece circuitos locais e regionais e redes de comercialização; valoriza a biodiversidade e a produção orgânica e agroecológica de alimentos; incentiva hábitos alimentares saudáveis e estimula o cooperativismo e o associativismo.
+
+O orçamento do PAA é composto por recursos do Ministério da Cidadania.
+
+A execução do programa pode ser feita por meio de seis modalidades: Compra com Doação Simultânea, Compra Direta, Apoio à Formação de Estoques, Incentivo à Produção e ao Consumo de Leite, Compra Institucional e Aquisição de Sementes. 
+
+O programa vem sendo executado por estados e municípios em parceria com o Ministério da Cidadania e pela Companhia Nacional de Abastecimento (Conab). 
+
+O PAA foi instituído pelo art. 19 da Lei nº 10.696, de 02 de julho de 2003, no âmbito do Programa Fome Zero. Esta Lei foi alterada pela Lei nº 12.512, de 14 de outubro de 2011 e regulamentada por diversos decretos, o que está em vigência é o Decreto nº 7.775, de 4 de julho de 2012.
+
+O programa é uma das ações do governo federal para a Inclusão Produtiva Rural das famílias mais pobres.
+
+### Nesse conjunto de dados temos as seguintes variáveis:
+* __codigo_ibge: __ Código IBGE do município
+* __anomes_s: __ Ano e mês de referência
+* __agricultores_fornec_paa_i: __ Agricultores familiares fornecedores do PAA
+* __recur_pagos_agricul_paa_f: __ Recursos financeiros pagos aos agricultores familiares
+* __paa_qtd_agricul_familiar_sexo_masculino_i: __ Agricultores familiares - sexo masculino
+* __paa_qtd_agricul_familiar_sexo_feminino_i: __ Agricultores familiares - sexo feminino
+* __paa_qtd_agricul_familiar_sem_info_sexo_i: __ Agricultores familiares - sem informação de sexo
+* __paa_qtd_agricul_familiar_modal_compra_doacao_simul_i: __ Agricultores familiares - compra com doação simultânea
+* __paa_qtd_agricul_familiar_modal_incentivo_leite_i: __ Agricultores familiares - incentivo a produção e consumo de leite
+* __paa_qtd_agricul_familiar_modal_compra_direta_i: __ Agricultores familiares - compra direta
+* __paa_qtd_agricul_familiar_modal_formacao_estoque_i: __ Agricultores familiares - apoio a formação de estoques
+* __paa_qtd_agricul_familiar_modal_aquisicao_sementes_i: __ Agricultores familiares - aquisição de sementes
+* __paa_qtd_agricul_familiar_exec_compra_doacao_simul_i: __ Agricultores familiares fornecedores do PAA
+* __paa_vlr_pago_exec_compra_doacao_simul_d: __ Recursos financeiros pagos aos agricultores familiares
+* __paa_qtd_alim_adquiridos_exec_compra_doacao_simul_d: __ Quantidade de quilos de alimentos adquiridos
+* __paa_qtd_agricul_familiar_exec_incentivo_leite_i: __ Agricultores familiares fornecedores do PAA
+* __paa_vlr_pago_exec_incentivo_leite_d: __ Recursos financeiros pagos aos agricultores familiares
+* __paa_qtd_alim_adquiridos_exec_incentivo_leite_i: __ Quantidade de litros de leite adquiridos
+
+__Soluções utilizadas para abertura deste conjunto de dados:__
+
+__VIS DATA:__  é a ferramenta informacional sucessora da Matriz de Informações Sociais concebida em 2005. O VIS DATA se utiliza do conceito de base de dados para armazenar e gerir diversos indicadores e variáveis.
+
+Acesse o [VIS DATA](https://aplicacoes.mds.gov.br/sagi/vis/data3/data-explorer.php)";"PAA,agricultura familiar,alimentação,alimentos,mi social,msocial,visdata";"11";"1";"1191";"4"
+"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome";"Programa Fomento Rural";"O Programa de Fomento às Atividades Produtivas Rurais combina duas ações: o acompanhamento social e produtivo e a transferência direta de recursos financeiros não-reembolsáveis às famílias em situação de pobreza, para investimento em projetos produtivos.
+
+O presente conjunto de dados informa a quantidade de famílias que foram beneficiadas pelo Programa Fomento Rural, ano a ano. A quantificação considera o número total de famílias para as quais foi disponibilizada a primeira parcela do Programa.
+
+
+## Nesse conjunto de dados temos as seguintes variáveis:
+
+Variáveis presentes nos recursos:
+
+Famílias atendidas pelo Fomento Rural (acumulado):  
+* __codigo_ibge__: Código IBGE do município da família beneficiária.
+* __anomes_s__: Ano e mês de referência da disponibilização da primeira parcela dos recursos para a família.
+* __formento_qtd_familias_beneficiarias_i__: Famílias beneficiárias do Programa Fomento Rural (ACUMULADO).
+
+Famílias atendidas pelo Programa Fomento Rural, por Grupo Populacional Tradicional e Específico (GPTE):  
+* __codigo_ibge__: Código IBGE do município da família beneficiária.
+* __anomes_s__: Ano e mês de referência da disponibilização da primeira parcela dos recursos para a família.
+* __formento_qtd_fam_benef_indinegas_i__: Nº de famílias indígenas beneficiárias do Programa Fomento Rural
+* __formento_qtd_fam_benef_quilombolas_i__: Nº de famílias quilombolas beneficiárias do Programa Fomento Rural
+* __formento_qtd_fam_benef_ciganas_i__: Nº de famílias ciganas beneficiárias do Programa Fomento Rural
+* __formento_qtd_fam_benef_comun_terreiro_i__: Nº de famílias pertencentes a comunidades de terreiro beneficiárias do Programa Fomento Rural
+* __formento_qtd_fam_benef_extrativistas_i__: Nº de famílias extrativistas beneficiárias do Programa Fomento Rural
+* __formento_qtd_fam_benef_pescadores_artesanais_i__: Nº de famílias de pescadores artesanais beneficiárias do Programa Fomento Rural
+* __formento_qtd_fam_benef_ribeirinhas_i__: Nº de famílias ribeirinhas beneficiárias do Programa Fomento Rural
+* __formento_qtd_fam_benef_agrilcultores_familiares_i__: Nº de famílias de agricultores familiares beneficiárias do Programa Fomento Rural
+* __formento_qtd_fam_benef_assentados_ref_agraria_i__: Nº de famílias assentadas da Reforma Agrária beneficiárias do Programa Fomento Rural
+* __formento_qtd_fam_benef_acampados_rurais_i__: Nº de famílias acampadas rurais beneficiárias do Programa Fomento Rural
+* __formento_qtd_fam_benef_credito_fundiario_i__: Nº de famílias atendidas pelo Programa Nacional de Crédito Fundiário beneficiárias do Programa Fomento Rural
+* __formento_qtd_fam_benef_atingidas_empr_infra_i__: Nº de famílias atingidas por empreendimentos de infraestrutura beneficiárias do Programa Fomento Rural
+* __formento_qtd_fam_benef_presos_sist_carcerario_i__: Nº de famílias de presos do sistema carcerário beneficiárias do Programa Fomento Rural
+* __formento_qtd_fam_benef_catadores_material_reciclado_i__: Nº de famílias de catadores de material reciclável beneficiárias do Programa Fomento Rural
+* __formento_qtd_total_familias_benef_i__: Nº total de famílias beneficiárias do Programa Fomento Rural
+
+Famílias atendidas pelo Programa Fomento Rural, por sexo do responsável familiar:  
+* __codigo_ibge__: Código IBGE do município da família beneficiária.
+* __anomes_s__: Ano e mês de referência da disponibilização da primeira parcela dos recursos para a família.
+* __formento_qtd_rf_sexo_feminino_i__: Nº de mulheres beneficiárias do Programa Fomento Rural
+* __formento_qtd_rf_sexo_masculino_i__: Nº de homens beneficiários do Programa Fomento Rural
+* __formento_qtd_rf_sem_info_sexo_i__: Nº de beneficiários do Programa Fomento Rural sem informação de sexo
+* __formento_qtd_total_rf_i__: Nº total de famílias beneficiárias do Programa Fomento Rural
+
+__Soluções utilizadas para abertura deste conjunto de dados:__
+
+__VIS DATA:__  é a ferramenta informacional sucessora da Matriz de Informações Sociais concebida em 2005. O VIS DATA se utiliza do conceito de base de dados para armazenar e gerir diversos indicadores e variáveis.
+
+Acesse o [VIS DATA](https://aplicacoes.mds.gov.br/sagi/vis/data3/data-explorer.php)";"Desenvolvimento Social,fomento rural,inclusão social,mds,mi social,misocial,visdata";"63";"2";"1860";"3"
+"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome";"Prontuário Eletrônico do SUAS";"O Prontuário Eletrônico é uma ferramenta que auxilia o trabalho dos profissionais dos CRAS, CREAS e Unidades de Acolhimento para Crianças e Adolescentes no registro dos atendimentos realizados às famílias e indivíduos, e que permite qualificar o atendimento social e analisar de forma sistematizada as informações sobre o território e a população atendida.
+
+Sua utilização permite manter um histórico dos atendimentos, agilizando assim o trabalho dos profissionais e facilitando a vida dos usuários do SUAS.
+
+###Definição de atendimento e acompanhamento:###
+
+**Atendimento**: procedimento, ato ou ação realizada por técnicos de nível médio ou superior com os usuários/beneficiários do serviço/equipamento. Exemplos: acolhida; escuta e prestação de orientações; encaminhamento para a rede socioassistencial ou para outras políticas públicas; cadastramento ou atualização cadastral do CadÚnico; visitas domiciliares, e etc.  
+
+**Acompanhamento familiar**: Processo continuado e planejado de intervenções com uma família/indivíduo, para atingir objetivos definidos de enfrentamento e mitigação das vulnerabilidades, riscos e situações de violência e violação de direitos vivenciados. O acompanhamento é materializado pelo planejamento e pelo conjunto de atendimentos sistemáticos.  
+
+###Variáveis presentes no conjunto de dados:###
+**- codigo_ibge:** Código IBGE do município.  
+**- municipio:** Nome do Município.  
+**- sigla_uf:** Sigla da Unidade Federativa.  
+**- anomes_s:** Ano e Mês do atendimento/acompanhamento.  
+**- pront_suas_qtd_pessoas_atendidas_i:** Quantidade de pessoas atendidas.  
+**- pront_suas_qtd_atendimentos_i:** Quantidade de atendimentos.  
+**- pront_suas_qtd_pessoas_acompanhadas_i:** Quantidade de pessoas acompanhadas.  
+**- pront_suas_qtd_acompanhamentos_i:** Quantidade de acompanhamentos.  
+**- pront_suas_data_extracao_dt:** Data da extração do dado.  
+
+É fornecida a data de extração pois pode ocorrer o registro de atendimentos e acompanhamentos retroativamente.
+
+__Soluções utilizadas para abertura deste conjunto de dados:__
+
+__VIS DATA:__  é a ferramenta informacional sucessora da Matriz de Informações Sociais concebida em 2005. O VIS DATA se utiliza do conceito de base de dados para armazenar e gerir diversos indicadores e variáveis.
+
+Acesse o [VIS DATA](https://aplicacoes.mds.gov.br/sagi/vis/data3/data-explorer.php)";"Assistência Social,Ministério da Cidadania,SNAS,SUAS,mi social,misocial,visdata";"2";"1";"122";"3"
+"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome";"SIS Acessuas - Programa de Promoção do Acesso ao Mundo do Trabalho";"O Programa de Promoção do Acesso ao Mundo do Trabalho (Acessuas Trabalho) busca a autonomia das famílias usuárias da política de assistência social, por meio da integração ao mundo do trabalho.  
+
+A iniciativa faz parte de um conjunto de ações de articulação de políticas públicas e de mobilização, encaminhamento e acompanhamento de pessoas em situação de vulnerabilidade e/ou risco social para acesso a oportunidades afeitas a trabalho e emprego.  
+
+As ações de inclusão produtiva compreendem a qualificação técnico-profissional; a intermediação pública de mão de obra; o apoio ao microempreendedor individual e à economia solidária; o acesso a direitos sociais relativos ao trabalho (formalização do trabalho); a articulação com comerciantes e empresários locais para mapeamento e fomento de oportunidades, entre outros.
+
+__Soluções utilizadas para abertura deste conjunto de dados:__
+
+__VIS DATA:__  é a ferramenta informacional sucessora da Matriz de Informações Sociais concebida em 2005. O VIS DATA se utiliza do conceito de base de dados para armazenar e gerir diversos indicadores e variáveis.
+
+Acesse o [VIS DATA](https://aplicacoes.mds.gov.br/sagi/vis/data3/data-explorer.php)";"Acessuas,Assistência Social,Ministério da Cidadania,SNAS,SUAS,mi social,misocial,visdata";"2";"1";"58";"1"
+"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome";"SISC - Sistema de Informações do Serviço de Convivência e Fortalecimento de Vínculos";"O Sistema de Informações do Serviço de Convivência e Fortalecimento de Vínculos (SISC) é uma ferramenta de gestão do Serviço de Convivência e Fortalecimento de Vínculos (SCFV) em âmbito municipal, distrital, estadual e nacional. Por meio dele, a Secretaria Nacional de Assistência Social (SNAS) realiza a aferição dos atendimentos realizados para a provisão do cofinanciamento federal.
+
+### Neste conjunto de dados temos as seguintes variáveis:
+
+* __codigo_ibge: __ código ibge do município
+* __anomes: __ ano e mês de referência
+* __sisc_qtd_usuarios_situacao_isolamento_i: __ Em situação de isolamento.
+* __sisc_qtd_usuarios_trabalho_infantil_i: __ Trabalho infantil.
+* __sisc_qtd_usuarios_vivencia_violencia_negligencia_i: __ Vivência de violência e/ou negligência.
+* __sisc_qtd_usuarios_fora_escola_defasagem_escolar_i: __ Fora da escola ou com defasagem escolar superior a 2 anos.
+* __sisc_qtd_usuarios_situacao_acolhimento_i: __ Usuários em situação de acolhimento.
+* __sisc_qtd_usuarios_medida_socioedutativa_meio_aberto_i: __ Em cumprimento de medida socioeducativa em meio aberto.
+* __sisc_qtd_usuarios_egressos_medida_socioedutativa_i: __ Egressos de medidas socioeducativas.
+* __sisc_qtd_usuarios_situacao_abuso_exploracao_sexual_i: __ Situação de abuso e/ou exploração sexual.
+* __sisc_qtd_usuarios_medidas_protecao_eca_i: __ Com medidas de proteção do ECA.
+* __sisc_qtd_usuarios_criancas_adolescentes_situacao_rua_i: __ Crianças e adolescentes em situação de rua.
+* __sisc_qtd_usuarios_vulnerabilidades_pessoas_deficiencia_i: __ Vulnerabilidade que diz respeito às pessoas com deficiência. 
+* __sisc_qtd_usuarios_situacao_nao_prioritaria_i: __ Usuários em situação não prioritária
+* __sisc_qtd_usuarios_situacao_prioritaria_i: __ Usuários em situação prioritária.
+* __sisc_qtd_total_usuarios_i: __ Quantidade total de usuários do SISC.
+
+__Soluções utilizadas para abertura deste conjunto de dados:__
+
+__VIS DATA:__  é a ferramenta informacional sucessora da Matriz de Informações Sociais concebida em 2005. O VIS DATA se utiliza do conceito de base de dados para armazenar e gerir diversos indicadores e variáveis.
+
+Acesse o [VIS DATA](https://aplicacoes.mds.gov.br/sagi/vis/data3/data-explorer.php)";"convivência,mi social,misocial,snas,visdata,vínculos";"8";"1";"290";"3"
+"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome";"Bolsa Família";"O  **Bolsa Família** é um programa de transferência direta de renda, direcionado às famílias em situação de pobreza e de extrema pobreza em todo o País, de modo que consigam superar a situação de vulnerabilidade e pobreza.
+Tem como principal objetivo combater a fome, a pobreza e promover a segurança alimentar e nutricional, retirando as famílias da vulnerabilidade socieconômica por meio da transferência de renda; Além disso,  através das condicionalidades,  reforçar o acesso aos direitos básicos e aos serviços de saúde, educação, segurança alimentar a assistência social.
+
+### Nesse conjunto de dados temos as seguintes variáveis:
+
+A partir de março de  2023:
+*  **ibge:** código ibge do município
+* **anomes:** ano e mês de referência
+* **qtd_familias_beneficiarias_bolsa_familia_s:** Quantidade de famílias beneficiárias do Programa Bolsa Família
+* **valor_repassado_bolsa_familia_s:** Valor repassado para pagamento de benefícios do Programa Bolsa Família
+* **pbf_vlr_medio_benef_f:** Valor médio dos benefícios pagos do Programa Bolsa Família
+
+De 2004 a 2021:
+* **ibge:** código ibge do município
+* **anomes:** ano e mês de referência
+* **qtd_familias_beneficiarias_bolsa_familia:** Quantidade de famílias beneficiárias do Programa Bolsa Família
+* **valor_repassado_bolsa_familia:** Valor repassado para pagamento de benefícios do Programa Bolsa Família
+
+Esse conjunto de dados informa a quantidade de famílias beneficiárias e o valor repassado através da folha de pagamento do Bolsa Família, assim como o município e ano/mês de referência. 
+
+Para saber mais informações sobre os dados do programa no período de Nov/2021 a Fev/2023, consulte os indicadores do [Programa Auxílio Brasil (PAB)](https://dados.gov.br/dados/conjuntos-dados/auxlio-brasil---mi-social), clique no link:
+[https://dados.gov.br/dados/conjuntos-dados/auxlio-brasil---mi-social](https://dados.gov.br/dados/conjuntos-dados/auxlio-brasil---mi-social)
+
+**Painel de Análise dos Dados**:
+[https://aplicacoes.mds.gov.br/sagi-paineis/analise_dados_abertos/](http://aplicacoes.mds.gov.br/sagi-paineis/analise_dados_abertos/)
+
+__Soluções utilizadas para abertura deste conjunto de dados:__
+
+__VIS DATA:__  é a ferramenta informacional sucessora da Matriz de Informações Sociais concebida em 2005. O VIS DATA se utiliza do conceito de base de dados para armazenar e gerir diversos indicadores e variáveis.
+
+Acesse o [VIS DATA](https://aplicacoes.mds.gov.br/sagi/vis/data3/data-explorer.php)";"MI Social,MISocial,Matriz de informação social,PBF,benefício,bolsa família,misocial,programa bolsa família,quantidade de famílias,vis data";"42";"3";"3713";"10"
+"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome";"Unidades de Atendimento da Assistência Social";"Assistência Social conta com uma extensa rede de unidades públicas, que realiza atendimentos para pessoas ou grupos de crianças, de jovens, de mulheres, idosos, pessoas com deficiência e outros.
+
+As unidades da Assistência Social são:
+
+* [Cras - Centro de Referência de Assistência Social] (http://mds.gov.br/assuntos/assistencia-social/unidades-de-atendimento/cras);
+* [Creas – Centro de Referência Especializado de Assistência Social] (http://mds.gov.br/assuntos/assistencia-social/unidades-de-atendimento/creas);
+* [Centro POP – Centros de Referência Especializados para População em Situação de Rua] (http://mds.gov.br/assuntos/assistencia-social/unidades-de-atendimento/centro-pop);
+* [Centro Dia de Referência para Pessoa com Deficiência e suas Famílias] (http://mds.gov.br/assuntos/assistencia-social/unidades-de-atendimento/centro-dia);
+* [Unidades de Acolhimento – Casa Lar, Albergue, Abrigo Institucional, República, Residência Inclusiva, Casa de Passagem] (http://mds.gov.br/assuntos/assistencia-social/unidades-de-atendimento/unidades-de-acolhimento).
+     
+
+Além dessas, o município pode contar com outras unidades que podem ser públicas ou entidades de assistência social, que prestam atendimento, por exemplo, a idosos, crianças e adolescentes e pessoas em situação de rua, dentre outros públicos. Em caso de dúvida procure Secretaria Municipal de Assistência Social ou a Prefeitura de seu município.
+
+Os serviços da Assistência Social estão divididos por tipos de necessidades, há aqueles voltados para prevenir determinadas situações e aqueles voltados para apoiar pessoas que tivera direitos violados. As pessoas ou famílias podem ir até uma unidade por conta própria ou encaminhadas por recomendação de órgãos ou entidades. Há casos em que as equipes da assistência social vão até elas, nas ações de Busca Ativa.
+
+Mais informações em: https://mds.gov.br/assuntos/assistencia-social/unidades-de-atendimento
+
+Atenção: as informações de georeferenciamento (latitude e longitude) são coletadas anualmente através do Censo SUAS. E podem sofrer uma desatualização de até 1 ano e meio. As demais informações possuem atualizações diárias baseadas no CADSUAS.
+
+__Soluções utilizadas para abertura deste conjunto de dados:__
+
+__VIS DATA:__  é a ferramenta informacional sucessora da Matriz de Informações Sociais concebida em 2005. O VIS DATA se utiliza do conceito de base de dados para armazenar e gerir diversos indicadores e variáveis.
+
+Acesse o [VIS DATA](https://aplicacoes.mds.gov.br/sagi/vis/data3/data-explorer.php)";"CENTRO POP,CRAS,CREAS,SNAS,assistência social,atendimento ao cidadão,mi social,vis data";"32";"1";"800";"6"
+"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome";"Famílias inscritas no Cadastro Único";"O Cadastro Único é um instrumento que identifica e caracteriza as famílias de baixa renda, permitindo que o governo conheça melhor a realidade socioeconômica dessa população. 
+
+Este conjunto de dados apresenta a quantidade de famílias inscritas no Cadastro Único por município e  ano/mês de referência.
+
+Neste conjunto de dados temos as seguintes variáveis:
+
+* __codigo_ibge:__ código ibge do município.
+* __anomes:__ Ano/mês de referência do dado.
+* __cadun_qtd_familias_cadastradas_i:__ Quantidade total de famílias inscritas no Cadastro Único.
+
+__Soluções utilizadas para abertura deste conjunto de dados:__
+
+__VIS DATA:__  é a ferramenta informacional sucessora da Matriz de Informações Sociais concebida em 2005. O VIS DATA se utiliza do conceito de base de dados para armazenar e gerir diversos indicadores e variáveis.
+
+Acesse o [VIS DATA](https://aplicacoes.mds.gov.br/sagi/vis/data3/data-explorer.php)";"cadunico,extrema pobreza,matriz de informações sociais,mi social,ministério da cidadania,misocial,pobreza,renda per capita,visdata";"13";"2";"628";"4"
+"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome";"Pessoas inscritas no Cadastro Único";"O Cadastro Único é um instrumento que identifica e caracteriza as famílias de baixa renda, permitindo que o governo conheça melhor a realidade socioeconômica dessa população. 
+
+Este conjunto de dados apresenta a quantidade de pessoas inscritas no Cadastro Único por município e  ano/mês de referência.
+
+Neste conjunto de dados temos as seguintes variáveis:
+
+* __codigo_ibge:__ código ibge do município.
+* __anomes:__ Ano/mês de referência do dado.
+* __cadun_qtd_pessoas_cadastradas_i:__ Quantidade total de pessoas inscritas no Cadastro Único.
+
+__Soluções utilizadas para abertura deste conjunto de dados:__
+
+__VIS DATA:__  é a ferramenta informacional sucessora da Matriz de Informações Sociais concebida em 2005. O VIS DATA se utiliza do conceito de base de dados para armazenar e gerir diversos indicadores e variáveis.
+
+Acesse o [VIS DATA](https://aplicacoes.mds.gov.br/sagi/vis/data3/data-explorer.php)";"MISocial,cadunico,extrema pobreza,matriz de informações sociais,mi social,ministério da cidadania,misocial,pobreza,renda per capita,visdata";"13";"1";"711";"3"
+"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome";"Famílias por faixa de renda com cadastro atualizado no Cadastro Único";"O **Cadastro Único** é um instrumento que identifica e caracteriza as famílias de baixa renda, permitindo que o governo conheça melhor a realidade socioeconômica dessa população. 
+
+Este conjunto de dados apresenta a quantidade de famílias por faixa de renda com cadastro atualizado no Cadastro Único por município e ano/mês de referência.
+
+As informações constantes do Cadastro Único devem ser atualizadas ou revalidadas pela família a cada dois anos, contados da data de inclusão ou da última atualização ou revalidação, na forma estabelecida em ato do Ministro de Estado da Cidadania ([Decreto Nº 11.016/2022, Art. 12](https://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2022/Decreto/D11016.htm)).
+
+Neste conjunto de dados temos as seguintes variáveis:
+
+* __codigo_ibge:__ código ibge do município.
+* __anomes:__ Ano/mês de referência do dado.
+* __cadun_qtd_familias_atualizadas_i:__ Quantidade total de famílias com cadastro atualizado
+* __cadun_qtd_familias_atualizadas_pobreza_pbf_i:__ Quantidade de famílias em situação de pobreza, segundo a faixa do Programa Bolsa Família*, com cadastro atualizado
+* __cadun_qtd_familias_atualizadas_baixa_renda_i:__ Quantidade de famílias de baixa renda** com cadastro atualizado
+* __cadun_qtd_familias_atualizadas_rfpc_ate_meio_sm_i:__ Quantidade de famílias com renda per capita mensal até meio salário mínimo (Pobreza + Baixa renda) com cadastro atualizado
+* __cadun_qtd_familias_atualizadas_rfpc_acima_meio_sm_i:__ Quantidade de famílias com renda per capita mensal maior que meio salário-mínimo*** com cadastro atualizado
+* __cadun_qtd_familias_atualizadas_renda_zero_i:__ Quantidade de famílias com renda zero com cadastro atualizado
+* __cadun_taxa_atualizacao_cadastral_d:__ Taxa geral de atualização cadastral
+* __cadun_taxa_atualizacao_cadastral_rfpc_ate_meio_sm_d:__ Taxa de atualização cadastral das famílias com renda per capita mensal até meio salário mínimo (Pobreza + Baixa renda)
+
+
+**Elegibilidade ao Programa Bolsa Família:**  
+Considera famílias com renda familiar per capita mensal até a linha administrativa de entrada no Programa Bolsa Família, que caracteriza a situação de pobreza da família.  
+
+**Histórico**:  
+-Até abril de 2014: renda familiar per capita mensal até 140 reais  
+-De maio de 2014 a junho de 2016: renda familiar per capita mensal até 154 reais  
+-De julho de 2016 a maio de 2018: renda familiar per capita mensal até 170 reais  
+-De junho de 2018 a outubro de 2021: renda familiar per capita mensal até 178 reais  
+-Novembro de 2021: renda familiar per capita mensal até 200 reais  
+-De dezembro de 2021 a fevereiro de 2023: renda familiar per capita mensal até 210 reais  
+-De março de 2023 em diante: renda familiar per capita mensal até 218 reais  
+
+ **Baixa renda:**  
+Considera famílias com renda per capita mensal acima da linha de saída do Programa Bolsa Família até meio salário mínimo, linha que estabelece o público-alvo do Cadastro Único, conforme definição de baixa renda contida no Decreto nº 11.016, de 29 de março de 2022.  
+
+**Histórico**:  
+-Até abril de 2014: renda familiar per capita mensal de 140,01 reais até meio salário-mínimo  
+-De maio de 2014 a junho de 2016: renda familiar per capita mensal de 154,01 reais até meio salário-mínimo  
+-De julho de 2016 a maio de 2018: renda familiar per capita mensal de 170,01 reais até meio salário-mínimo  
+-De junho de 2018 a outubro de 2021: renda familiar per capita mensal de 178,01 reais até meio salário-mínimo  
+-Novembro de 2021: renda familiar per capita mensal de 200,01 reais até meio salário-mínimo  
+-De dezembro de 2021 a fevereiro de 2023: renda familiar per capita mensal de 210,01 reais até meio salário-mínimo  
+-De março de 2023 em diante: renda familiar per capita mensal de 218,01 reais até meio salário-mínimo  
+
+ **Renda per capita mensal acima de meio salário mínimo:**  
+Considera famílias acima do perfil de baixa renda, ou seja, com renda familiar per capita mensal maior que meio salário-mínimo, o que corresponde aos seguintes valores em cada ano:  
+2012: R$ 311,00  
+2013: R$ 339,00  
+2013: R$ 362,00  
+2014: R$ 394,00  
+2015: R$ 339,00  
+2016: R$ 440,00  
+2017: R$ 468,50  
+2018: R$ 477,00  
+2019: R$ 499,00  
+2020: R$ 522,50  
+2021: R$ 550,00  
+2022: R$ 606,00  
+2023 (janeiro a abril): R$ 651,00  
+2023 (a partir de maio): R$ 660,00  
+2024 (a partir de janeiro): R$ 706,00    
+
+__Soluções utilizadas para abertura deste conjunto de dados:__
+
+__VIS DATA:__  é a ferramenta informacional sucessora da Matriz de Informações Sociais concebida em 2005. O VIS DATA se utiliza do conceito de base de dados para armazenar e gerir diversos indicadores e variáveis.
+
+Acesse o [VIS DATA](https://aplicacoes.mds.gov.br/sagi/vis/data3/data-explorer.php)";"cadunico,extrema pobreza,matriz de informações sociais,mi social,ministério da cidadania,misocial,pobreza,renda per capita,visdata";"10";"3";"728";"5"
+"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome";"Bolsa Família - Benefícios Básicos e Variáveis";"O __Bolsa Família__ é um programa de transferência direta de renda, direcionado às famílias em situação de pobreza e de extrema pobreza em todo o País, de modo que consigam superar essa situação de vulnerabilidade. Tem como principal objetivo combater a fome, a pobreza e promover a segurança alimentar e nutricional, retirando as famílias da vulnerabilidade socieconômica por meio da transferência de renda; Além disso, através das condicionalidades, reforçar o acesso aos direitos básicos e aos serviços de saúde, educação, segurança alimentar a assistência social.
+
+### Nesse conjunto de dados temos as seguintes variáveis:
+
+A partir de  2023:
+* __codigo_ibge:__ código ibge do município
+* __anomes:__ ano e mês de referência
+* __qtd_ben_brc:__ Qtde de Benefícios de Renda de Cidadania (BRC)
+* __qtd_ben_bco:__  Qtde de Benefícios Complementares (BCO)
+* __qtd_ben_bpi:__  Qtde de Benefícios Primeira Infância (BPI)
+* __qtd_ben_bvg:__ Qtde de Benefícios Variáveis Familiares Gestante (BVG)
+* __qtd_ben_bvn:__ Qtde Repassado de Benefícios Variáveis Familiares Nutriz (BVN)
+* __qtd_ben_bva:__ Qtde de Benefícios Variáveis Familiares Adolescente (BVA)
+* __qtd_ben_bv:__ Qtde de Benefícios Variáveis Familiares Criança (BV)
+* __qtd_ben_bf:__ Qtde de benefícios familiares
+* __qtd_ben_bvbva:__ Qtde de Benefícios Variáveis Familiares Criança (BV) e Adolescente (BVA) somados
+* __qtd_ben_bet:__ Qtde de Benefícios Extraordinários de Transição (BET)
+* __qtd_ben_sus:__ Qtde de Famílias com suspensão parcial do benefício pelo Seguro Defeso
+
+De 2014 a 2021:
+* __ibge:__ código ibge do município  
+* __anomes:__ ano e mês de referência  
+* __qtd_ben_bas:__ Quantidade de benefícios básicos  
+* __qtd_ben_var:__  Quantidade de benefícios variáveis  
+* __qtd_ben_bvj:__  Quantidade de benefícios jovem  
+* __qtd_ben_bvn:__ Quantidade de benefícios nutriz  
+* __qtd_ben_bvg:__ Quantidade de benefícios gestantes  
+* __qtd_ben_bsp:__ Quantidade de benefícios superação extrema pobreza  
+
+Esse conjunto de dados informa a quantidade de benefícios básicos e variáveis, assim como o município e ano/mês de referência.
+
+__Soluções utilizadas para abertura deste conjunto de dados:__
+
+__VIS DATA:__  é a ferramenta informacional sucessora da Matriz de Informações Sociais concebida em 2005. O VIS DATA se utiliza do conceito de base de dados para armazenar e gerir diversos indicadores e variáveis.
+
+Acesse o [VIS DATA](https://aplicacoes.mds.gov.br/sagi/vis/data3/data-explorer.php)";"PBF,beneficios,bolsa familia,matriz informacao social,mi social,misocial,programa bolsa familia,vis data";"20";"2";"2523";"4"
+"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome";"Registro Mensal de Atendimentos - RMA";"O Registro Mensal de Atendimentos (RMA) é um sistema onde são registradas mensalmente as informações relativas aos serviços ofertados e o volume de atendimentos nos Centros de Referência da Assistência Social (CRAS), Centros de Referência Especializados de Assistência Social (CREAS) e Centro de Referência Especializado para População em Situação de Rua (Centros POP).
+
+Seu principal objetivo é uniformizar essas informações e, dessa forma, proporcionar dados qualificados que contribuam para o desenvolvimento do Sistema Único de Assistência Social (SUAS), conforme as determinações das Resoluções da Comissão Intergestores Tripartite (CIT) n° 4/2011 e n° 20/2013.";"RMA,Registro Mensal de Atendimentos,SNAS,Vigilânia Social,assistência social";"21";"0";"443";"3"
+"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome";"SUASWEB – Sistema de Gestão do SUAS";"O **SUASWEB** é um sistema para a gestão do Sistema Único de Assistência Social (**SUAS**), que compreende informações sobre o Plano de Ação (planejamento das ações cofinanciadas), Demonstrativo Sintético de Execução Físico-Financeira (Prestação de Contas) posteriores ao exercício de 2011. E ainda, possibilita a consulta a dados financeiros (parcelas pagas e saldos em conta) dos Estados, Municípios e Distrito Federal.
+As informações de 2005 a 2011 encontram-se no sistema anterior, chamado SUASNOB.
+
+Nesse conjunto de dados temos as seguintes variáveis:
+
+Variáveis presentes nos recursos:
+
+__Repasses efetuados por meio do Fundo Municipal da Assistência Social__
+
+* __codigo_ibge:__ Código ibge do município
+* __anomes_s:__ Ano e mês de referência
+* __suas_repasse_mun_vl_gestao_suas_f:__ Valores repassados para a Gestão do SUAS
+* __suas_repasse_mun_vl_psb_f:__ Valores repassados para a Proteção Social Básica
+* __suas_repasse_mun_vl_pse_alta_complexidade_f:__ Valores repassados para a Proteção Social Especial de Alta Complexidade
+* __suas_repasse_mun_vl_pse_media_complexidade_f:__ Valores repassados para a Proteção Social Especial de Média Complexidade
+* __suas_repasse_mun_vl_grupo_programas_f:__ Valores repassados para Grupo de Programas
+* __suas_repasse_mun_vl_sem_classificacao_f:__ Valores repassados sem classificação
+* __suas_repasse_mun_vl_fundo_a_fundo_f:__ Transferências voluntárias Fundo a Fundo
+* __suas_repasse_mun_vl_total_fundo_f:__ Valor total repassado via Fundo Municipal
+* __suas_repasse_mun_vl_gestao_pbf_cadun_f:__ Valores repassados para a Gestão do Programa Bolsa Família e do Cadastro Único
+* __suas_repasse_mun_vl_pcf_f:__ Valores repassados para Criança Feliz
+* __suas_repasse_mun_vl_gestao_pab_f:__ Valores repassados para a Gestão do Programa Auxílio Brasil
+* __suas_repasse_mun_vl_pse_f:__ Valores repassados para a Proteção Social Especial de Média e Alta Complexidade
+* __suas_repasse_mun_dt_atualizacao_s:__ Data de atualização
+
+__Repasses efetuados por meio do Fundo Estadual da Assistência Social__
+
+* __codigo_ibge:__ Código ibge do município
+* __anomes_s:__ Ano e mês de referência
+* __suas_repasse_uf_vl_gestao_suas_f:__ Valores repassados para a Gestão do SUAS
+* __suas_repasse_uf_vl_psb_f:__ Valores repassados para a Proteção Social Básica
+* __suas_repasse_uf_vl_pse_alta_complexidade_f:__ Valores repassados para a Proteção Social Especial de Alta Complexidade
+* __suas_repasse_uf_vl_pse_media_complexidade_f:__ Valores repassados para a Proteção Social Especial de Média Complexidade
+* __suas_repasse_uf_vl_grupo_programas_f:__ Valores repassados para Grupo de Programas
+* __suas_repasse_uf_vl_sem_classificacao_f:__ Valores repassados sem classificação
+* __suas_repasse_uf_vl_fundo_a_fundo_f:__ Transferências voluntárias Fundo a Fundo
+* __suas_repasse_uf_vl_total_fundo_f:__ Valor total repassado via Fundo Estadual 
+* __suas_repasse_uf_vl_gestao_pbf_cadun_f:__ Valores repassados para a Gestão do Programa Bolsa Família e do Cadastro Único
+* __suas_repasse_uf_vl_pcf_f:__ Valores repassados para Criança Feliz
+* __suas_repasse_uf_vl_gestao_pab_f:__ Valores repassados para a Gestão do Programa Auxílio Brasil
+* __suas_repasse_uf_vl_pse_f:__ Valores repassados para a Proteção Social Especial de Média e Alta Complexidade
+* __suas_repasse_uf_dt_atualizacao_s:__ Data de atualização
+
+__Saldo em Conta Corrente SUAS__
+
+* __codigo_ibge:__ Código ibge do município
+* __anomes_s:__ Ano e mês de referência
+* __suas_saldo_cc_mun_vl_bloco_gestao_pbf_cadun_f:__ Bloco da Gestão do Programa Bolsa Família e do Cadastro Único - Municipal 
+* __suas_saldo_cc_mun_vl_bloco_gestao_suas_f:__ Bloco da Gestão do SUAS - Municipal 
+* __suas_saldo_cc_mun_vl_bloco_psb_f:__ Bloco da Proteção Social Básica - Municipal 
+* __suas_saldo_cc_mun_vl_bloco_pse_media_complexidade_f:__ Bloco da Proteção Social Especial de Média Complexidade - Municipal 
+* __suas_saldo_cc_mun_vl_bloco_pse_alta_complexidade_f:__ Bloco da Proteção Social Especial de Alta Complexidade - Municipal 
+* __suas_saldo_cc_mun_vl_convenio_f:__ Convênio - Municipal 
+* __suas_saldo_cc_mun_vl_gestao_f:__ Gestão - Municipal 
+* __suas_saldo_cc_mun_vl_grupo_programas_f:__ Grupo de Programas - Municipal 
+* __suas_saldo_cc_mun_vl_programas_f:__ Programas - Municipal 
+* __suas_saldo_cc_mun_vl_psb_f:__ Proteção Social Básica - Municipal 
+* __suas_saldo_cc_mun_vl_pse_f:__ Proteção Social Especial - Municipal 
+* __suas_saldo_cc_mun_vl_serv_acao_continuada_f:__ Serviço de Ação Continuada - Municipal 
+* __suas_saldo_cc_mun_vl_total_geral_f:__ Total geral do saldo em conta corrente - Municipal 
+* __suas_saldo_cc_mun_vl_pcf_f:__ Criança Feliz (parte do Grupo de Programas - Municipal) 
+* __suas_saldo_cc_mun_vl_procad_suas_f:__ PROCAD-SUAS (parte do Grupo de Programas - Municipal) 
+* __suas_saldo_cc_mun_dt_atualizacao_s:__ Data de atualização
+
+O VISDATA é a ferramenta informacional sucessora da Matriz de Informações Sociais concebida em 2005. o VISADATA se utiliza do conceito de base de dados para armazenar e gerir diversos indicadores e variáveis.
+
+Acesse o [VIS DATA](https://aplicacoes.mds.gov.br/sagi/vis/data3/data-explorer.php)";"SUAS,SUASWEB,cadsuas,mi social,misocial,socioassistencial";"123";"1";"174";"2"
+"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome";"CNEAS – Cadastro Nacional de Entidades de Assistência Social";"O **CNEAS** é o sistema de Cadastro Nacional de Entidades de Assistência Social, uma ferramenta de gestão que armazena informações sobre as organizações e ofertas socioassistenciais com atuação no território nacional.   
+ 
+De responsabilidade da administração pública, este cadastro atesta que a OSC faz parte da Rede SUAS, bem como o caráter público de suas ofertas, possibilitando o acompanhamento do atendimento aos usuários na política Nacional de Assistência Social e a disponibilidade e distribuição dos serviços, programas e projetos em todo o Brasil.  
+ 
+Para as organizações da sociedade civil participar de parcerias com a Administração Pública é necessário possuir inscrição no Conselho Municipal de Assistência Social e CNEAS concluído e, para estarem aptas a receber emendas parlamentares, faz-se necessário, ainda, que o CNEAS seja atualizado a cada 02 anos.  
+
+Neste conjunto de dados temos as seguintes variáveis: 
+
+__Entidades - Cadastro Nacional de Entidades de Assistência Social - CNEAS__
+
+* __codigo_ibge:__ código ibge do município 
+* __anomes:__ ano e mês de referência 
+* __cneas_entidade_nome_municipio_s:__ Nome do Município 
+* __cneas_entidade_sigla_uf_s:__ UF 
+* __cneas_cod_entidade_s:__ Código da Entidade 
+* __cneas_entidade_numero_cnpj_s:__ CNPJ 
+* __cneas_entidade_razao_social_s:__ Nome Empresarial 
+* __cneas_entidade_nome_fantasia_s:__ Nome Fantasia 
+* __cneas_entidade_endereco_logradouro_s:__ Logradouro do Endereço 
+* __cneas_entidade_endereco_numero_s:__ Número do endereço 
+* __cneas_entidade_endereco_complemento_s:__ Complemento do endereço 
+* __cneas_entidade_endereco_bairro_s:__ Bairro 
+* __cneas_entidade_endereco_cep_s:__ CEP 
+* __cneas_entidade_situacao_cadastro_s:__ Situação do cadastro 
+* __cneas_entidade_dt_extracao_s:__ Data de extração 
+  
+__Ofertas - Cadastro Nacional de Entidades de Assistência Social - CNEAS__
+
+* __codigo_ibge:__ código ibge do município 
+* __anomes:__ ano e mês de referência 
+* __cneas_oferta_nome_municipio_s:__ Nome do Município 
+* __cneas_oferta_sigla_uf_s:__ UF 
+* __cneas_oferta_numero_cnpj_s:__ CNPJ  
+* __cneas_oferta_cod_servico_s:__ Código do Serviço 
+* __cneas_oferta_nome_servico_s:__ Nome do Serviço 
+* __cneas_oferta_cod_nivel_protecao_s:__ Código do nível de proteção 
+* __cneas_oferta_desc_nivel_protecao_s:__ Nível de Proteção 
+* __cneas_oferta_endereco_logradouro_s:__ Logradouro do Endereço 
+* __cneas_oferta_endereco_numero_s:__ Número do endereço 
+* __cneas_oferta_endereco_complemento_s:__ Complemento do Endereço 
+* __cneas_oferta_endereco_bairro_s:__ Bairro 
+* __cneas_oferta_endereco_cep_s:__ CEP 
+* __cneas_oferta_dt_extracao_s:__ Data de extração 
+  
+__Soluções utilizadas para abertura deste conjunto de dados:__ 
+
+__VIS DATA:__  é a ferramenta informacional sucessora da Matriz de Informações Sociais concebida em 2005. O VIS DATA se utiliza do conceito de base de dados para armazenar e gerir diversos indicadores e variáveis. 
+
+Acesse o [VIS DATA](https://aplicacoes.mds.gov.br/sagi/vis/data3/data-explorer.php)";"Assistencia Social,CNEAS,MI Social,Ministério da Cidadania,mi social,misocial,vistada";"8";"1";"79";"0"
